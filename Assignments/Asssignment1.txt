@@ -1,0 +1,2 @@
+How many escape seq in python?
+Ans)
